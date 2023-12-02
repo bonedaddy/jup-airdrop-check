@@ -2,5 +2,6 @@
 /Cargo.lock
 config/conf_1
 config/conf_2rust-starter
-
+addrs.txt
+addrs2.txt
 rust-starter
